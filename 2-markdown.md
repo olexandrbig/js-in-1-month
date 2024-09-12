@@ -8,9 +8,11 @@
 Він опирається на мову HTML, про яку ми дізнаємось згодом. 
 Наразі ми вивчимо типові елементи які використовуються саме в Markdown
 
+Виикористовуючи шапаргалку нижче потрібно створити власну сторінку на довільну тему, що буде використовувати різні загаловки та вставки. Напраклад аналог <https://uk.wikipedia.org/wiki/GitHub>
+
 ## Basic Syntax
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+Нижче приведено шпаргалку типових елементів коду
 
 ### Heading
 
