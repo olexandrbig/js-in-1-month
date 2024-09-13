@@ -3,6 +3,7 @@
 ## Document
 
 Типовий сайт має додаткові теги що виконують утилітарні функції
+
 Ось приклад такої структури у [файлі](https://raw.githubusercontent.com/olexandrbig/js-in-1-month/master/5-html-3-sample.html)
 
 
