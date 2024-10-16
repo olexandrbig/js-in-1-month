@@ -7,11 +7,11 @@
 Наразі є 4 ключових підходи для побудови структури:
 
 1. Таблиці - застарілий спосіб, зводитсья до написання таблиць що вміщають інші таблиці і так далі, наразі використовуєтсья лише у верстці листів Email
-2. Float - плаваючі елементи що дозволяють керувати порядком блоків https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_float
-3. Flexbox - сильний інструмент що дозволяє працювати з блоками https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_flexbox
-4. Grid - побудова структури на основі сітки. Зручний варіант бо наразі більшість дизайнів грунтуєтсья саме на сітці https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_grid
+2. Float - плаваючі елементи що дозволяють керувати порядком блоків [приклад з переглядом коду](https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_float)
+3. Flexbox - сильний інструмент що дозволяє працювати з блоками [приклад з переглядом коду](https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_flexbox)
+4. Grid - побудова структури на основі сітки. Зручний варіант бо наразі більшість дизайнів грунтується саме на сітці [приклад з переглядом коду](https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_grid)
 
 ## Завдання
 
-Розширити стилі своєї сторінки ктруктурою на основі сітки потрібно орієнтуватись на приклади з сайту https://www.w3schools.com/css/css_templates.asp
+Розширити стилі своєї сторінки ктруктурою на основі сітки потрібно орієнтуватись на приклади з [сайту](https://www.w3schools.com/css/css_templates.asp)
 
