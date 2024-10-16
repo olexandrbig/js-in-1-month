@@ -7,4 +7,5 @@
 5. [html-3](./5-html-3.html)
 6. [css](./6-css.html)
 7. [css-2](./7-css-2.html)
-8. [jquery](./8-jquery.html)
+7. [css-3](./8-css-3.html)
+8. [jquery](./9-jquery.html)
