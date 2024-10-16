@@ -6,9 +6,9 @@
 
 Селектори потрібні для зручно перевикористання стилів і розділення розмітки та стилів у окремі файли для зручної роботи
 
-https://www.w3schools.com/cssref/css_selectors.php
+[Перелік селекторів](https://www.w3schools.com/cssref/css_selectors.php)
 
-На цій сторінці можна ознайомитись із прикладами сфери дії селекторів https://www.w3schools.com/cssref/trysel.php
+Можна ознайомитись із прикладами сфери дії селекторів на [сторінці](https://www.w3schools.com/cssref/trysel.php)
 
 Найчастіше використовуютсья селектори класу тобто в елемент додається `class="class-name1 class-name2"` і потім вони стилізуються `.class-name1{color:red}` та `.class-name2{background:blue}` відповідно
 
