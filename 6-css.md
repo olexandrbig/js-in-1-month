@@ -14,19 +14,19 @@
 
 ## CheetSheet
 
-Кольори https://www.w3schools.com/css/css_colors.asp
+[Кольори](https://www.w3schools.com/css/css_colors.asp)
 
-Фони https://www.w3schools.com/css/css_background.asp
+[Фони](https://www.w3schools.com/css/css_background.asp)
 
-Рамки https://www.w3schools.com/css/css_border.asp
+[Рамки](https://www.w3schools.com/css/css_border.asp)
 
-Відступи https://www.w3schools.com/css/css_margin.asp
+[Відступи](https://www.w3schools.com/css/css_margin.asp)
 
-Розтягнення https://www.w3schools.com/css/css_padding.asp
+[Розтягнення](https://www.w3schools.com/css/css_padding.asp)
 
-Обведення https://www.w3schools.com/css/css_outline.asp
+[Обведення](https://www.w3schools.com/css/css_outline.asp)
 
-Робота з текстом https://www.w3schools.com/css/css_text.asp
+[Робота з текстом](https://www.w3schools.com/css/css_text.asp)
 
 Це далеко не повний список але саме з нього ми почнемо
 
